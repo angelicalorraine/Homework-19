@@ -83,6 +83,10 @@ body {
 
 }
 
+.aboutinfo {
+    font-family: 'Roboto', sans-serif;
+}
+
 .casestudy {
     margin-left: 200px;
     margin-right:200px;
